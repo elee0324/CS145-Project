@@ -1,4 +1,4 @@
-## CS145-Project: Studying the Impacts of Health and Well-Being on Education Level Worldwide
+## Studying the Impacts of Health and Well-Being on Education Level Worldwide
 Fall 2020
 
 ### Introduction 
